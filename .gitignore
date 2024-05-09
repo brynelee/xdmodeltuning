@@ -161,3 +161,8 @@ cython_debug/
 #
 outputs
 lora_model
+llama3
+
+*.gguf
+llama.cpp
+
