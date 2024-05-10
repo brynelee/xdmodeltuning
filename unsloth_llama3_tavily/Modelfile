@@ -1,0 +1,2 @@
+FROM /mnt/g/AI_Spaces/models/llama3_unsloth/llama3-unsloth.Q8_0.gguf
+
